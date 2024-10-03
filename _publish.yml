@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: f4c869ae-3d17-4ef5-a5e9-3ff17fc5e0c3
+      url: 'https://lively-concha-560be3.netlify.app'
