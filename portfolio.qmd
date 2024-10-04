@@ -1,0 +1,11 @@
+---
+title: "Portfolio"
+portfolio:
+  template: jolla
+---
+
+This is where I will describe all the main projects.
+
+1. Wet lab projects
+2. Computational and discovery projects
+3. Clinical trial related projects

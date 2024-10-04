@@ -1,1 +1,1 @@
-Sitemap: adityasuru.com/sitemap.xml
+Sitemap: https://adityasuru.com/sitemap.xml

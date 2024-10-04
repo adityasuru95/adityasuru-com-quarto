@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "About",
     "section": "",
-    "text": "This is going to be the about me main page."
+    "text": "This is going to be the about me main page. Now I just need to update the theme of the website to a dark / night theme."
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -26,5 +26,12 @@
     "title": "Blog",
     "section": "",
     "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nOct 3, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nSep 30, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "This is where I will describe all the main projects.\n\nWet lab projects\nComputational and discovery projects\nClinical trial related projects"
   }
 ]
