@@ -16,5 +16,8 @@
   },
   "portfolio.qmd": {
     "portfolio.html": "edc117d5"
+  },
+  "posts/trial-quarto/index.qmd": {
+    "index.html": "3abdef33"
   }
 }
